@@ -2,7 +2,7 @@
 LQR and LQG control for gantry crane with 2 masses at different height
 
 ### Author
-- Pradip Kathiriya
+- Shelvin Pauly
 ## Table of Contents
    * [What is this?](#what-is-this)
    * [Requirements](#requirements)
