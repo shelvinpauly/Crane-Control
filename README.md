@@ -1,19 +1,5 @@
-# Gantry crane control
+# Crane control
 LQR and LQG control for gantry crane with 2 masses at different height
-
-### Author
-- Shelvin Pauly
-## Table of Contents
-   * [What is this?](#what-is-this)
-   * [Requirements](#requirements)
-   * [Open loop system](#open-loop-system)
-   * [LQR control](#linear-quadratic-regulator)
-   * [LQR control - Reference Tracking](#lqr-reference-tracking)
-   * [Luenberger observer](#luenberger-observer)
-   * [LQG control - Reference Tracking](#lqg-reference-tracking)
-   * [Kalman filter](#kalman-filter)
-
-## What is this?
 
 This is a Matlab code collection of control experiments.
 
